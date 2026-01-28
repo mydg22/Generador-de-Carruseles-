@@ -1,0 +1,5 @@
+{
+  "name": "AI Carousel Generator",
+  "description": "An AI-powered application to generate engaging social media carousel content using structured templates. Choose from basic, storytelling, or editable formats to create compelling posts for platforms like Instagram and LinkedIn.",
+  "requestFramePermissions": []
+}
